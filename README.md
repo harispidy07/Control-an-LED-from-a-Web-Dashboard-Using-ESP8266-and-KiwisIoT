@@ -57,7 +57,7 @@ const char* topic = "YOUR_TOPIC_ID";
 [Control an LED from a Web Dashboard](https://www.hackster.io/harispidy07/control-an-led-from-a-web-dashboard-cd4f73)
 
 **KiwisIoT Platform:**  
-[https://kiwisiot.com/](https://kiwisiot.com/)
+[https://kiwisiot.in/](https://kiwisiot.in/)
 
 **KiwisIoT GitHub Repository:**  
 [https://github.com/Kiwistron/KiwisIoT-Projects](https://github.com/Kiwistron/KiwisIoT-Projects)
